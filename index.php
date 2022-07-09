@@ -15,17 +15,21 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 </head>
 <body>
-    <header id="header" >
-        <nav class="navbar">
-        <!-- <img src="assets/picture/logoMirai.png" class="logo" alt="Logo Mirai"> -->
+<header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center justify-content-between">
+        <div>
         <a href="index.php"><img src="assets/picture/logoMirai.png" alt="" id="logo" class="img-fluid"></a>
+        </div>
+
+        <nav class="navbar">
         <ul>
-            <li><a class="nav-link scrollto active" href="#home">Home</a></li>
-            <li><a class="nav-link scrollto" href="#about">About Us</a></li>
-            <li><a class="nav-link scrollto" href="#product">Product</a></li>
-            <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
+            <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+            <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
+            <li><a class="nav-link scrollto" href="product.php">Product</a></li>
+            <li><a class="nav-link scrollto" href="faq.php">FAQ</a></li>
         </ul>
         </nav>
-    </header>
+    </div>
+</header>
 </body>
 </html>
