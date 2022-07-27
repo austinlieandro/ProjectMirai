@@ -41,20 +41,20 @@
                 <div class="col-lg-4 col-md-6 footer-contact">
                     <h3>PT. Mirai Mesin Industri</h3>
                     <p>
-                        A108 Adam Street <br>
-                        Surabaya, NY 535022<br>
+                        Jl. Romokalisari No. 33 <br>
+                        Surabaya 60192<br>
                         Indonesia <br><br>
                     </p>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <br><br>
                     <p>
-                        <strong>Phone:</strong> +62 82291559706<br>
-                        <strong>Email:</strong> info@example.com<br>
+                        <strong>Phone:</strong> +62 317482726<br>
+                        <strong>Email:</strong>  miraimesin@gmail.com<br>
                     </p>
                 </div>
                 <div class="col-lg-5 col-md-6 mt-2">
-                    <iframe class="map-box" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1663.8375504123223!2d112.76730277048476!3d-7.320733414711787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMTknMTUuMSJTIDExMsKwNDYnMDIuOSJF!5e0!3m2!1sen!2sid!4v1475753468457" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.391084780586!2d112.6453205!3d-7.196140699999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7ff8b6722b2f9%3A0x40ff0b85981a9eee!2sJl.%20Romokalisari%20No.33%2C%20Segoromadu%2C%20Kec.%20Kebomas%2C%20Kabupaten%20Gresik%2C%20Jawa%20Timur%2060192!5e0!3m2!1sen!2sid!4v1658921948944!5m2!1sen!2sid" width="100%" height="250" style="border:0;" allowfullscreen></iframe>
                 </div>
                 
             </div>
